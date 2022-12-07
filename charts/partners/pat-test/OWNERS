@@ -1,0 +1,11 @@
+chart:
+  name: pat
+  shortDescription: 'simply a test'
+providerDelivery: true
+publicPgpKey: null
+users:
+- githubUsername: PatAKnight
+- githubUsername: PatAKnight
+vendor:
+  label: pattest
+  name: PatTest INC
